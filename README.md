@@ -2,7 +2,7 @@
 
 A tool used to check fake news. This tool is made using machine learning mode, namely SVC with 93% accuracy. 
 
-- For the complete code please check [this file](./Fake News Classification.ipynb)
+- For the complete code please check [this file](Fake News Classification.ipynb)
 - To test the model please visit [this link](https://fakenewschecker.streamlit.app/)
 - For real news use [this news](https://www.bbc.com/news/articles/cvg9gvv8lylo)
 - For fake news use this news:
