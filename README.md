@@ -1,6 +1,6 @@
 # Binary Classification: Fake News
 
-A tool used to check fake news. This tool is made using machine learning mode, namely SVC with 93% accuracy. 
+A tool used to check fake news. This tool is made using machine learning model, namely SVC with 93% accuracy. 
 
 - For the complete code please check [this file](https://github.com/MaruliHTGL/Binary-Classification-Fake-News/blob/6f4c0d1ad041c49e3b18f864c019b1ff787781c5/Fake%20News%20Classification.ipynb)
 - To test the model please visit [this link](https://fakenewschecker.streamlit.app/)
