@@ -1,6 +1,6 @@
 # Binary Classification: Fake News
 
-A tool used to check fake news. This tool is made using machine learning model, namely SVC with 93% accuracy. 
+A tool used to check fake news. This tool is made using machine learning model, namely **SVC** with 93% accuracy. 
 
 - Using datasets from [kaggle](https://www.kaggle.com/code/rajatkumar30/fake-news-prediction-92-5-accuracy/input)
 - For the complete code please check [this file](https://github.com/MaruliHTGL/Binary-Classification-Fake-News/blob/6f4c0d1ad041c49e3b18f864c019b1ff787781c5/Fake%20News%20Classification.ipynb)
@@ -18,4 +18,4 @@ A tool used to check fake news. This tool is made using machine learning model, 
     
     The team plans to release more details after clinical trials, but rumors have already sparked interest from global pharmaceutical giants eager to capitalize on the potential "fountain of youth."
 
-Disclaimer: This tool is only to help users check the authenticity of a news story and may predict the wrong one. Please check the authenticity of the news by checking the news source.
+**Disclaimer**: This tool is only to help users check the authenticity of a news story and may predict the wrong one. Please check the authenticity of the news by checking the news source.
