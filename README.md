@@ -17,3 +17,5 @@ A tool used to check fake news. This tool is made using machine learning model, 
     However, skeptics argue that the claims lack substantial peer-reviewed evidence. "Extraordinary claims require extraordinary proof," said Dr. John Ellis, a renowned biologist.
     
     The team plans to release more details after clinical trials, but rumors have already sparked interest from global pharmaceutical giants eager to capitalize on the potential "fountain of youth."
+
+Disclaimer: This tool is only to help users check the authenticity of a news story and may predict the wrong one. Please check the authenticity of the news by checking the news source.
