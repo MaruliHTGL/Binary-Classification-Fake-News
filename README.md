@@ -1,4 +1,4 @@
-# Binary-Classification-Fake-News
+# Binary Classification: Fake News
 
 A tool used to check fake news. This tool is made using machine learning mode, namely SVC with 93% accuracy. 
 
