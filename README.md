@@ -2,6 +2,7 @@
 
 A tool used to check fake news. This tool is made using machine learning model, namely SVC with 93% accuracy. 
 
+- Using datasets from [kaggle](https://www.kaggle.com/code/rajatkumar30/fake-news-prediction-92-5-accuracy/input)
 - For the complete code please check [this file](https://github.com/MaruliHTGL/Binary-Classification-Fake-News/blob/6f4c0d1ad041c49e3b18f864c019b1ff787781c5/Fake%20News%20Classification.ipynb)
 - To test the model please visit [this link](https://fakenewschecker.streamlit.app/)
 - For real news use [this news](https://www.bbc.com/news/articles/cvg9gvv8lylo)
