@@ -1,7 +1,7 @@
 # Binary Classification: Fake News
 
 <p style='text-align: justify;'>
-A tool used to check fake news. This tool is made using machine learning model, namely **SVC** with 93% accuracy. 
+A tool used to check fake news. This tool is made using machine learning model, namely <strong>SVC</strong> with 93% accuracy. 
 </p>
 
 <br>
