@@ -18,4 +18,4 @@ A tool used to check fake news. This tool is made using machine learning model, 
     
     The team plans to release more details after clinical trials, but rumors have already sparked interest from global pharmaceutical giants eager to capitalize on the potential "fountain of youth."
 <br>
-<p style='text-align: justify;'> **Disclaimer**: This tool is only to help users check the authenticity of a news story and may predict the wrong one. Please check the authenticity of the news by checking the news source. </p>
+<p style='text-align: justify;'> <strong>Disclaimer:</strong> This tool is only to help users check the authenticity of a news story and may predict the wrong one. Please check the authenticity of the news by checking the news source. </p>
