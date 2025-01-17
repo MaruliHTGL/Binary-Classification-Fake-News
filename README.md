@@ -2,6 +2,7 @@
 
 <p style='text-align: justify;'>
 A tool used to check fake news. This tool is made using machine learning model, namely **SVC** with 93% accuracy. 
+</p>
 
 - Using datasets from [kaggle](https://www.kaggle.com/code/rajatkumar30/fake-news-prediction-92-5-accuracy/input)
 - For the complete code please check [this file](https://github.com/MaruliHTGL/Binary-Classification-Fake-News/blob/5f6c157dec0fb98e0e8b2a6ac1bbc7c2b2457869/Fake%20News%20Classification.ipynb)
@@ -21,4 +22,6 @@ A tool used to check fake news. This tool is made using machine learning model, 
     
 <br>
 
-<strong>Disclaimer:</strong> This tool is only to help users check the authenticity of a news story and may predict the wrong one. Please check the authenticity of the news by checking the news source. </p>
+<p style='text-align: justify;'>
+<strong>Disclaimer:</strong> This tool is only to help users check the authenticity of a news story and may predict the wrong one. Please check the authenticity of the news by checking the news source.
+</p>
